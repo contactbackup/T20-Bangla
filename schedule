@@ -4,7 +4,8 @@
 		"fastTeam": "Oman",
 		"secondTeam": "Papua New Guinea",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/tr94i28azTadAjK9PBYFGA_48x48.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/3VpXzxfuyhEBpXoorjKjCA_48x48.png"
+		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/3VpXzxfuyhEBpXoorjKjCA_48x48.png",
+		"url": ""
 	},
 	{
 		"time": "8:00 PM",
@@ -12,7 +13,9 @@
 		"fastTeam": "Bangladesh",
 		"secondTeam": "Scotland",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/uTQstsRqQKZC-VUZWaNi0w_48x48.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/KNmWgtzC7DeN0X-OJEDsMA_48x48.png"
+		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/KNmWgtzC7DeN0X-OJEDsMA_48x48.png",
+		"url": ""
+
 	},
 	{
 		"time": "4:00 PM",
@@ -20,7 +23,8 @@
 		"fastTeam": "Ireland",
 		"secondTeam": "Netherlands",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/kW8yJV655U2u-ri-00yOBg_48x48.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_48x48.png"
+		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_48x48.png",
+		"url": ""
 	},
 	{
 		"time": "8:00 PM",
@@ -28,7 +32,8 @@
 		"fastTeam": "Sri Lanka",
 		"secondTeam": "Namibia",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/-6moqr0dxYpIhERhbiVLSA_48x48.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/8zTp1yeTn2hlV2y0TYHS9A_48x48.png"
+		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/8zTp1yeTn2hlV2y0TYHS9A_48x48.png",
+		"url": ""
 	},
 	{
 		"time": "4:00 PM",
@@ -36,7 +41,8 @@
 		"fastTeam": "Scotland",
 		"secondTeam": "Papua New Guinea",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/KNmWgtzC7DeN0X-OJEDsMA_48x48.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/3VpXzxfuyhEBpXoorjKjCA_48x48.png"
+		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/3VpXzxfuyhEBpXoorjKjCA_48x48.png",
+		"url": ""
 	},
 	{
 		"time": "8:00 PM",
@@ -44,7 +50,8 @@
 		"fastTeam": "Oman",
 		"secondTeam": "Bangladesh",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/tr94i28azTadAjK9PBYFGA_48x48.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/uTQstsRqQKZC-VUZWaNi0w_48x48.png"
+		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/uTQstsRqQKZC-VUZWaNi0w_48x48.png",
+		"url": ""
 	},
 	{
 		"time": "4:00 PM",
@@ -52,7 +59,8 @@
 		"fastTeam": "Namibia",
 		"secondTeam": "Netherlands",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/8zTp1yeTn2hlV2y0TYHS9A_48x48.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_48x48.png"
+		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_48x48.png",
+		"url": ""
 	},
 	{
 		"time": "8:00 PM",
@@ -60,7 +68,8 @@
 		"fastTeam": "Sri Lanka",
 		"secondTeam": "Ireland",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/-6moqr0dxYpIhERhbiVLSA_48x48.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/kW8yJV655U2u-ri-00yOBg_48x48.png"
+		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/kW8yJV655U2u-ri-00yOBg_48x48.png",
+		"url": ""
 	},
 	{
 		"time": "4:00 PM",
@@ -68,7 +77,8 @@
 		"fastTeam": "Bangladesh",
 		"secondTeam": "Papua New Guinea",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/uTQstsRqQKZC-VUZWaNi0w_48x48.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/3VpXzxfuyhEBpXoorjKjCA_48x48.png"
+		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/3VpXzxfuyhEBpXoorjKjCA_48x48.png",
+		"url": ""
 	},
 	{
 		"time": "8:00 PM",
@@ -76,7 +86,8 @@
 		"fastTeam": "Oman",
 		"secondTeam": "Scotland",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/tr94i28azTadAjK9PBYFGA_48x48.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/KNmWgtzC7DeN0X-OJEDsMA_48x48.png"
+		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/KNmWgtzC7DeN0X-OJEDsMA_48x48.png",
+		"url": ""
 	},
 	{
 		"time": "4:00 PM",
@@ -84,7 +95,8 @@
 		"fastTeam": "Namibia",
 		"secondTeam": "Ireland",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/8zTp1yeTn2hlV2y0TYHS9A_48x48.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/kW8yJV655U2u-ri-00yOBg_48x48.png"
+		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/kW8yJV655U2u-ri-00yOBg_48x48.png",
+		"url": ""
 	},
 	{
 		"time": "8:00 PM",
@@ -92,7 +104,9 @@
 		"fastTeam": "Sri Lanka",
 		"secondTeam": "Netherlands",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/-6moqr0dxYpIhERhbiVLSA_48x48.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_48x48.png"
+		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_48x48.png",
+		"url": ""
+
 	},
 	{
 		"time": "4:00 PM",
@@ -100,7 +114,8 @@
 		"fastTeam": "Australia",
 		"secondTeam": "South Africa",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_48x48.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/EGwD4_SUlmwZWbnHhcmTPA_48x48.png"
+		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/EGwD4_SUlmwZWbnHhcmTPA_48x48.png",
+		"url": ""
 	},
 	{
 		"time": "8:00 PM",
@@ -108,7 +123,8 @@
 		"fastTeam": "England",
 		"secondTeam": "West Indies",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_48x48.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/6om0X7vSyKW3Lj4AVpqWIQ_48x48.png"
+		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/6om0X7vSyKW3Lj4AVpqWIQ_48x48.png",
+		"url": ""
 	},
 	{
 		"time": "4:00 PM",
@@ -116,7 +132,8 @@
 		"fastTeam": "TBD",
 		"secondTeam": "TBD",
 		"fastImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
-		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
+		"url": ""
 	},
 	{
 		"time": "8:00 PM",
@@ -124,7 +141,8 @@
 		"fastTeam": "India",
 		"secondTeam": "Pakistan",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_48x48.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_48x48.png"
+		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_48x48.png",
+		"url": ""
 	},
 	{
 		"time": "8:00 PM",
@@ -132,7 +150,8 @@
 		"fastTeam": "Afghanistan",
 		"secondTeam": "TBD",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/8rwaXVaUKfdJq31QgGtQrw_48x48.png",
-		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
+		"url": ""
 	},
 	{
 		"time": "4:00 PM",
@@ -140,7 +159,8 @@
 		"fastTeam": "South Africa",
 		"secondTeam": "West Indies",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/EGwD4_SUlmwZWbnHhcmTPA_48x48.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/6om0X7vSyKW3Lj4AVpqWIQ_48x48.png"
+		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/6om0X7vSyKW3Lj4AVpqWIQ_48x48.png",
+		"url": ""
 	},
 	{
 		"time": "8:00 PM",
@@ -148,7 +168,8 @@
 		"fastTeam": "Pakistan",
 		"secondTeam": "New Zealand",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_48x48.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/VnSt4NnQhVxsjgNck2HkKw_48x48.png"
+		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/VnSt4NnQhVxsjgNck2HkKw_48x48.png",
+		"url": ""
 	},
 	{
 		"time": "4:00 PM",
@@ -156,7 +177,8 @@
 		"fastTeam": "England",
 		"secondTeam": "TBD",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_48x48.png",
-		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
+		"url": ""
 	},
 	{
 		"time": "8:00 PM",
@@ -164,7 +186,8 @@
 		"fastTeam": "TBD",
 		"secondTeam": "TBD",
 		"fastImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
-		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
+		"url": ""
 	},
 	{
 		"time": "8:00 PM",
@@ -172,7 +195,8 @@
 		"fastTeam": "Australia",
 		"secondTeam": "TBD",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_48x48.png",
-		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
+		"url": ""
 	},
 	{
 		"time": "4:00 PM",
@@ -180,7 +204,8 @@
 		"fastTeam": "West Indies",
 		"secondTeam": "TBD",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/6om0X7vSyKW3Lj4AVpqWIQ_48x48.png",
-		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
+		"url": ""
 	},
 	{
 		"time": "8:00 PM",
@@ -188,7 +213,8 @@
 		"fastTeam": "Afghanistan",
 		"secondTeam": "Pakistan",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/8rwaXVaUKfdJq31QgGtQrw_48x48.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_48x48.png"
+		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_48x48.png",
+		"url": ""
 	},
 	{
 		"time": "4:00 PM",
@@ -196,7 +222,8 @@
 		"fastTeam": "South Africa",
 		"secondTeam": "TBD",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/EGwD4_SUlmwZWbnHhcmTPA_48x48.png",
-		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
+		"url": ""
 	},
 	{
 		"time": "8:00 PM",
@@ -204,7 +231,8 @@
 		"fastTeam": "England",
 		"secondTeam": "Australia",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_48x48.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_48x48.png"
+		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_48x48.png",
+		"url": ""
 	},
 	{
 		"time": "4:00 PM",
@@ -212,7 +240,8 @@
 		"fastTeam": "Afghanistan",
 		"secondTeam": "TBD",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/8rwaXVaUKfdJq31QgGtQrw_48x48.png",
-		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
+		"url": ""
 	},
 	{
 		"time": "8:00 PM",
@@ -220,7 +249,8 @@
 		"fastTeam": "India",
 		"secondTeam": "New Zealand",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_48x48.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/VnSt4NnQhVxsjgNck2HkKw_48x48.png"
+		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/VnSt4NnQhVxsjgNck2HkKw_48x48.png",
+		"url": ""
 	},
 	{
 		"time": "8:00 PM",
@@ -228,7 +258,8 @@
 		"fastTeam": "England",
 		"secondTeam": "TBD",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_48x48.png",
-		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
+		"url": ""
 	},
 	{
 		"time": "4:00 PM",
@@ -236,7 +267,8 @@
 		"fastTeam": "South Africa",
 		"secondTeam": "TBD",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/EGwD4_SUlmwZWbnHhcmTPA_48x48.png",
-		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
+		"url": ""
 	},
 	{
 		"time": "8:00 PM",
@@ -244,7 +276,8 @@
 		"fastTeam": "Pakistan",
 		"secondTeam": "TBD",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_48x48.png",
-		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
+		"url": ""
 	},
 	{
 		"time": "4:00 PM",
@@ -252,7 +285,8 @@
 		"fastTeam": "New Zealand",
 		"secondTeam": "TBD",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/VnSt4NnQhVxsjgNck2HkKw_48x48.png",
-		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
+		"url": ""
 	},
 	{
 		"time": "8:00 PM",
@@ -260,7 +294,8 @@
 		"fastTeam": "India",
 		"secondTeam": "Afghanistan",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_48x48.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/8rwaXVaUKfdJq31QgGtQrw_48x48.png"
+		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/8rwaXVaUKfdJq31QgGtQrw_48x48.png",
+		"url": ""
 	},
 	{
 		"time": "4:00 PM",
@@ -268,7 +303,8 @@
 		"fastTeam": "Australia",
 		"secondTeam": "TBD",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_48x48.png",
-		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
+		"url": ""
 	},
 	{
 		"time": "8:00 PM",
@@ -276,7 +312,8 @@
 		"fastTeam": "West Indies",
 		"secondTeam": "TBD",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/6om0X7vSyKW3Lj4AVpqWIQ_48x48.png",
-		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
+		"url": ""
 	},
 	{
 		"time": "4:00 PM",
@@ -284,7 +321,8 @@
 		"fastTeam": "New Zealand",
 		"secondTeam": "TBD",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/VnSt4NnQhVxsjgNck2HkKw_48x48.png",
-		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
+		"url": ""
 	},
 	{
 		"time": "8:00 PM",
@@ -292,7 +330,8 @@
 		"fastTeam": "India",
 		"secondTeam": "TBD",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_48x48.png",
-		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
+		"url": ""
 	},
 	{
 		"time": "4:00 PM",
@@ -300,7 +339,8 @@
 		"fastTeam": "Australia",
 		"secondTeam": "West Indies",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_48x48.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/6om0X7vSyKW3Lj4AVpqWIQ_48x48.png"
+		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/6om0X7vSyKW3Lj4AVpqWIQ_48x48.png",
+		"url": ""
 	},
 	{
 		"time": "8:00 PM",
@@ -308,7 +348,8 @@
 		"fastTeam": "England",
 		"secondTeam": "South Africa",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_48x48.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/EGwD4_SUlmwZWbnHhcmTPA_48x48.png"
+		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/EGwD4_SUlmwZWbnHhcmTPA_48x48.png",
+		"url": ""
 	},
 	{
 		"time": "4:00 PM",
@@ -316,7 +357,8 @@
 		"fastTeam": "New Zealand",
 		"secondTeam": "Afghanistan",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/VnSt4NnQhVxsjgNck2HkKw_48x48.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/8rwaXVaUKfdJq31QgGtQrw_48x48.png"
+		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/8rwaXVaUKfdJq31QgGtQrw_48x48.png",
+		"url": ""
 	},
 	{
 		"time": "8:00 PM",
@@ -324,7 +366,8 @@
 		"fastTeam": "Pakistan",
 		"secondTeam": "TBD",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_48x48.png",
-		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
+		"url": ""
 	},
 	{
 		"time": "8:00 PM",
@@ -332,7 +375,8 @@
 		"fastTeam": "India",
 		"secondTeam": "TBD",
 		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_48x48.png",
-		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
+		"url": ""
 	},
 	{
 		"time": "8:00 PM",
@@ -340,7 +384,8 @@
 		"fastTeam": "TBD",
 		"secondTeam": "TBD",
 		"fastImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
-		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
+		"url": ""
 	},
 	{
 		"time": "8:00 PM",
@@ -348,7 +393,8 @@
 		"fastTeam": "TBD",
 		"secondTeam": "TBD",
 		"fastImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
-		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
+		"url": ""
 	},
 	{
 		"time": "8:00 PM",
@@ -356,6 +402,7 @@
 		"fastTeam": "TBD",
 		"secondTeam": "TBD",
 		"fastImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
-		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg"
+		"secondImage": "https://www.gstatic.com/onebox/sports/logos/inverse-crest.svg",
+		"url": ""
 	}
 ]
