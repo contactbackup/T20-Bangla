@@ -1,0 +1,49 @@
+[{
+		"teamImage": "https://icon-library.com/images/india-flag-icon/india-flag-icon-14.jpg",
+		"teamName": "India",
+		"teamWinners": "Champions (2007)",
+		"url": ""
+	},
+	{
+		"teamImage": "https://cdn.countryflags.com/thumbs/pakistan/flag-3d-round-250.png",
+		"teamName": "Pakistan",
+		"teamWinners": "Champions (2009)",
+		"url": ""
+	},
+	{
+		"teamImage": "https://cdn.countryflags.com/thumbs/australia/flag-3d-round-250.png",
+		"teamName": "Australia",
+		"teamWinners": "Runner-up (2010)",
+		"url": ""
+	},
+	{
+		"teamImage": "https://cdn.countryflags.com/thumbs/england/flag-3d-round-250.png",
+		"teamName": "England",
+		"teamWinners": "Champions (2010)",
+		"url": ""
+	},
+	{
+		"teamImage": "https://cdn.countryflags.com/thumbs/south-africa/flag-3d-round-250.png",
+		"teamName": "South Africa",
+		"teamWinners": "Semi-final (2009, 2014)",
+		"url": ""
+	},
+	{
+		"teamImage": "https://cdn.countryflags.com/thumbs/new-zealand/flag-round-250.png",
+		"teamName": "New Zealand",
+		"teamWinners": "Semi-final (2007, 2016)",
+		"url": ""
+	},
+	{
+		"teamImage": "https://s.ndtvimg.com/images/entities/300/west-indies-2119.png",
+		"teamName": "West Indies",
+		"teamWinners": "Champions (2012, 2016)",
+		"url": ""
+	},
+	{
+		"teamImage": "https://cdn.countryflags.com/thumbs/afghanistan/flag-3d-round-250.png",
+		"teamName": "Afghanistan",
+		"teamWinners": "Super 10s (2016)",
+		"url": ""
+	}
+]
