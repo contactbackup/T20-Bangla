@@ -1,0 +1,25 @@
+[{
+		"teamImage": "https://cdn.countryflags.com/thumbs/ireland/flag-3d-round-250.png",
+		"teamName": "Ireland",
+		"teamWinners": "Super 8s (2009)",
+		"url": ""
+	},
+	{
+		"teamImage": "https://cdn.countryflags.com/thumbs/namibia/flag-3d-round-250.png",
+		"teamName": "Namibia",
+		"teamWinners": "First round",
+		"url": ""
+	},
+	{
+		"teamImage": "https://cdn.countryflags.com/thumbs/netherlands/flag-round-250.png",
+		"teamName": "Netherlands",
+		"teamWinners": "Super 10s (2014)",
+		"url": ""
+	},
+	{
+		"teamImage": "https://cdn2.iconfinder.com/data/icons/flags-circle-3d/100/srilanka-512.png",
+		"teamName": "Sri Lanka",
+		"teamWinners": "Champions (2014)",
+		"url": ""
+	}
+]
