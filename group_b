@@ -1,0 +1,29 @@
+[
+	{
+		"teamImage": "https://cdn.countryflags.com/thumbs/bangladesh/flag-3d-round-250.png",
+		"teamName": "Bangladesh",
+		"teamWinners": "Super 8s (2007)",
+		"url": ""
+	},
+	
+	{
+		"teamImage": "https://m-tv.imgix.net/36f4aaff4128726b6ae887ed9c4f8561c71fcf99098d35a36d3467e398fd4d77.png",
+		"teamName": "Oman",
+		"teamWinners": "First round (2016)",
+		"url": ""
+	},
+	
+	{
+		"teamImage": "https://cdn.countryflags.com/thumbs/papua-new-guinea/flag-3d-round-250.png",
+		"teamName": "Papua New Guinea",
+		"teamWinners": "First round",
+		"url": ""
+	},
+	
+	{
+		"teamImage": "https://www.shareicon.net/data/2016/08/18/815750_world_512x512.png",
+		"teamName": "Scotland",
+		"teamWinners": "First round (2007, 09, 16)",
+		"url": ""
+	}
+]
