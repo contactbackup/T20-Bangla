@@ -1,0 +1,76 @@
+[{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170733/kane-williamson.jpg",
+		"playerName": "Kane Williamson (Captain)",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170731/martin-guptill.jpg",
+		"playerName": "Martin Guptill",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c153409/mark-chapman.jpg",
+		"playerName": "Mark Chapman",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170739/james-neesham.jpg",
+		"playerName": "James Neesham",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c154932/todd-astle.jpg",
+		"playerName": "Todd Astle",
+		"playerType": "Bowling Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c185494/daryl-mitchell.jpg",
+		"playerName": "Daryl Mitchell",
+		"playerType": "Bowling Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170741/mitchell-santner.jpg",
+		"playerName": "Mitchell Santner",
+		"playerType": "Bowling Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c207888/devon-conway.jpg",
+		"playerName": "Devon Conway",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c154514/glenn-phillips.jpg",
+		"playerName": "Glenn Phillips",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c154935/tim-seifert.jpg",
+		"playerName": "Tim Seifert",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170747/trent-boult.jpg",
+		"playerName": "Trent Boult",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170749/lockie-ferguson.jpg",
+		"playerName": "Lockie Ferguson",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c156101/kyle-jamieson.jpg",
+		"playerName": "Kyle Jamieson",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170755/ish-sodhi.jpg",
+		"playerName": "Ish Sodhi",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170753/tim-southee.jpg",
+		"playerName": "Tim Southee",
+		"playerType": "Bowler"
+	}
+]
