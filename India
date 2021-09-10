@@ -1,0 +1,76 @@
+[{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170661/virat-kohli.jpg",
+		"playerName": "Virat Kohli (C)",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170658/rohit-sharma.jpg",
+		"playerName": "Rohit Sharma",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c196666/suryakumar-yadav.jpg",
+		"playerName": "Suryakumar Yadav",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170666/hardik-pandya.jpg",
+		"playerName": "Hardik Pandya",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170670/ravindra-jadeja.jpg",
+		"playerName": "Ravindra Jadeja",
+		"playerType": "Bowling Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c153372/ravichandran-ashwin.jpg",
+		"playerName": "Ravichandran Ashwin",
+		"playerType": "Bowling Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c153416/axar-patel.jpg",
+		"playerName": "Axar Patel",
+		"playerType": "Bowling Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170673/kl-rahul.jpg",
+		"playerName": "KL Rahul",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c171010/rishabh-pant.jpg",
+		"playerName": "Rishabh Pant",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c203833/ishan-kishan.jpg",
+		"playerName": "Ishan Kishan",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c196703/varun-chakravarthy.jpg",
+		"playerName": "Varun Chakravarthy",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c178686/rahul-chahar.jpg",
+		"playerName": "Rahul Chahar",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170685/jasprit-bumrah.jpg",
+		"playerName": "Jasprit Bumrah",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170689/bhuvneshwar-kumar.jpg",
+		"playerName": "Bhuvneshwar Kumar",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170684/mohammed-shami.jpg",
+		"playerName": "Mohammed Shami",
+		"playerType": "Bowler"
+	}
+]
