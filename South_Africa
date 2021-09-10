@@ -1,0 +1,76 @@
+[{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c157823/temba-bavuma.jpg",
+		"playerName": "Temba Bavuma (Captain)",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c160000/reeza-hendricks.jpg",
+		"playerName": "Reeza Hendricks",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170645/aiden-markram.jpg",
+		"playerName": "Aiden Markram",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170687/david-miller.jpg",
+		"playerName": "David Miller",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170691/rassie-van-der-dussen.jpg",
+		"playerName": "Rassie van der Dussen",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c156946/wiaan-mulder.jpg",
+		"playerName": "Wiaan Mulder",
+		"playerType": "Bowling Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170695/dwaine-pretorius.jpg",
+		"playerName": "Dwaine Pretorius",
+		"playerType": "Bowling Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170698/quinton-de-kock.jpg",
+		"playerName": "Quinton de Kock",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c171037/heinrich-klaasen.jpg",
+		"playerName": "Heinrich Klaasen",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c156935/keshav-maharaj.jpg",
+		"playerName": "Keshav Maharaj",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/bjorn-fortuin.jpg",
+		"playerName": "Bjorn Fortuin",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170761/lungi-ngidi.jpg",
+		"playerName": "Lungi Ngidi",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c168592/anrich-nortje.jpg",
+		"playerName": "Anrich Nortje",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170759/kagiso-rabada.jpg",
+		"playerName": "Kagiso Rabada",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170774/tabraiz-shamsi.jpg",
+		"playerName": "Tabraiz Shamsi",
+		"playerType": "Bowler"
+	}
+]
