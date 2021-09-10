@@ -1,0 +1,76 @@
+[{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170900/soumya-sarkar.jpg",
+		"playerName": "Soumya Sarkar",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/mohammad-naim.jpg",
+		"playerName": "Mohammad Naim",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170905/mahmudullah.jpg",
+		"playerName": "Mahmudullah (Captain)",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170912/shakib-al-hasan.jpg",
+		"playerName": "Shakib Al Hasan",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/afif-hossain.jpg",
+		"playerName": "Afif Hossain",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/shamim-hossain.jpg",
+		"playerName": "Shamim Hossain",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/mahedi-hasan.jpg",
+		"playerName": "Mahedi Hasan",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170907/mohammad-saifuddin.jpg",
+		"playerName": "Mohammad Saifuddin",
+		"playerType": "Bowling Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170916/mushfiqur-rahim.jpg",
+		"playerName": "Mushfiqur Rahim",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170914/liton-das.jpg",
+		"playerName": "Liton Das",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c148277/nurul-hasan.jpg",
+		"playerName": "Nurul Hasan",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170925/mustafizur-rahman.jpg",
+		"playerName": "Mustafizur Rahman",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c156212/taskin-ahmed.jpg",
+		"playerName": "Taskin Ahmed",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/shoriful-islam.jpg",
+		"playerName": "Shoriful Islam",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/nasum-ahmed.jpg",
+		"playerName": "Nasum Ahmed",
+		"playerType": "Bowler"
+	}
+]
