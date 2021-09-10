@@ -1,0 +1,76 @@
+[{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170801/chris-gayle.jpg",
+		"playerName": "Chris Gayle",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c171232/shimron-hetmyer.jpg",
+		"playerName": "Shimron Hetmyer",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170785/evin-lewis.jpg",
+		"playerName": "Evin Lewis",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c157836/lendl-simmons.jpg",
+		"playerName": "Lendl Simmons",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c171071/kieron-pollard.jpg",
+		"playerName": "Kieron Pollard (Captain)",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170794/fabian-allen.jpg",
+		"playerName": "Fabian Allen",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c171033/dwayne-bravo.jpg",
+		"playerName": "Dwayne Bravo",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c152747/roston-chase.jpg",
+		"playerName": "Roston Chase",
+		"playerType": "Bowling Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170821/andre-russell.jpg",
+		"playerName": "Andre Russell",
+		"playerType": "Bowling Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170810/nicholas-pooran.jpg",
+		"playerName": "Nicholas Pooran",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c146338/andre-fletcher.jpg",
+		"playerName": "Andre Fletcher",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/obed-mccoy.jpg",
+		"playerName": "Obed McCoy",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/ravi-rampaul.jpg",
+		"playerName": "Ravi Rampaul",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170824/oshane-thomas.jpg",
+		"playerName": "Oshane Thomas",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c181653/hayden-walsh.jpg",
+		"playerName": "Hayden Walsh",
+		"playerType": "Bowler"
+	}
+]
