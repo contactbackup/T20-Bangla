@@ -1,0 +1,76 @@
+[{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170768/babar-azam.jpg",
+		"playerName": "Babar Azam (Captain)",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170770/asif-ali.jpg",
+		"playerName": "Asif Ali",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/khushdil-shah.jpg",
+		"playerName": "Khushdil Shah",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155526/sohaib-maqsood.jpg",
+		"playerName": "Sohaib Maqsood",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170776/mohammad-hafeez.jpg",
+		"playerName": "Mohammad Hafeez",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170779/shadab-khan.jpg",
+		"playerName": "Shadab Khan",
+		"playerType": "Bowling Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170782/imad-wasim.jpg",
+		"playerName": "Imad Wasim",
+		"playerType": "Bowling Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c148311/mohammad-nawaz.jpg",
+		"playerName": "Mohammad Nawaz",
+		"playerType": "Bowling Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/mohammad-wasim-jr.jpg",
+		"playerName": "Mohammad Wasim Jr",
+		"playerType": "Bowling Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/azam-khan.jpg",
+		"playerName": "Azam Khan",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c202222/mohammad-rizwan.jpg",
+		"playerName": "Mohammad Rizwan",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/haris-rauf.jpg",
+		"playerName": "Haris Rauf",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170804/hasan-ali.jpg",
+		"playerName": "Hasan Ali",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170805/mohammad-hasnain.jpg",
+		"playerName": "Mohammad Hasnain",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170802/shaheen-afridi.jpg",
+		"playerName": "Shaheen Afridi",
+		"playerType": "Bowler"
+	}
+]
