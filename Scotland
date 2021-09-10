@@ -1,0 +1,86 @@
+[{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c171146/kyle-coetzer.jpg",
+		"playerType": "Batsman",
+		"playerName": "Kyle Coetzer (Captain)"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/dylan-budge.jpg",
+		"playerType": "Batsman",
+		"playerName": "Dylan Budge"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/ollie-hairs.jpg",
+		"playerType": "Batsman",
+		"playerName": "Ollie Hairs"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c171140/george-munsey.jpg",
+		"playerType": "Batsman",
+		"playerName": "George Munsey"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c171155/richie-berrington.jpg",
+		"playerType": "Batting Allrounder",
+		"playerName": "Richie Berrington"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c171152/michael-leask.jpg",
+		"playerType": "Batting Allrounder",
+		"playerName": "Michael Leask"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c171150/calum-macleod.jpg",
+		"playerType": "Batting Allrounder",
+		"playerName": "Calum MacLeod"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c152804/josh-davey.jpg",
+		"playerType": "Bowling Allrounder",
+		"playerName": "Josh Davey"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c153777/alasdair-evans.jpg",
+		"playerType": "Bowling Allrounder",
+		"playerName": "Alasdair Evans"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c171163/matthew-cross.jpg",
+		"playerType": "WK-Batsman",
+		"playerName": "Matthew Cross"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c171160/craig-wallace.jpg",
+		"playerType": "WK-Batsman",
+		"playerName": "Craig Wallace"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/chris-greaves.jpg",
+		"playerType": "Bowler",
+		"playerName": "Chris Greaves"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c171177/safyaan-sharif.jpg",
+		"playerType": "Bowler",
+		"playerName": "Safyaan Sharif"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/chris-sole.jpg",
+		"playerType": "Bowler",
+		"playerName": "Chris Sole"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/hamza-tahir.jpg",
+		"playerType": "Bowler",
+		"playerName": "Hamza Tahir"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c171170/mark-watt.jpg",
+		"playerType": "Bowler",
+		"playerName": "Mark Watt"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c171168/bradley-wheal.jpg",
+		"playerType": "Bowler",
+		"playerName": "Bradley Wheal"
+	}
+]
