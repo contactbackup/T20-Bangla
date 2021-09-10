@@ -1,0 +1,76 @@
+[{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/stephan-baard.jpg",
+		"playerName": "Stephan Baard",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/craig-williams.jpg",
+		"playerName": "Craig Williams",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/pikky-ya-france.jpg",
+		"playerName": "Pikky Ya France",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155088/gerhard-erasmus.jpg",
+		"playerName": "Gerhard Erasmus (Captain)",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/david-wiese.jpg",
+		"playerName": "David Wiese",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c154711/jj-smit.jpg",
+		"playerName": "JJ Smit",
+		"playerType": "Bowling Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/karl-birkenstock.jpg",
+		"playerName": "Karl Birkenstock",
+		"playerType": "Bowling Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/jan-frylinck.jpg",
+		"playerName": "Jan Frylinck",
+		"playerType": "Bowling Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155104/zane-green.jpg",
+		"playerName": "Zane Green",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155083/michau-du-preez.jpg",
+		"playerName": "Michau du Preez",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155092/ben-shikongo.jpg",
+		"playerName": "Ben Shikongo",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155073/bernard-scholtz.jpg",
+		"playerName": "Bernard Scholtz",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/michael-van-lingen.jpg",
+		"playerName": "Michael van Lingen",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/jan-nicol-loftie-eaton.jpg",
+		"playerName": "Jan Nicol Loftie-Eaton",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/ruben-trumpelmann.jpg",
+		"playerName": "Ruben Trumpelmann",
+		"playerType": "Bowler"
+	}
+]
