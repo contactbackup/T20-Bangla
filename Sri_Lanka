@@ -1,0 +1,76 @@
+[{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170702/avishka-fernando.jpg",
+		"playerName": "Avishka Fernando",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/bhanuka-rajapaksa.jpg",
+		"playerName": "Bhanuka Rajapaksa",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c151519/dasun-shanaka.jpg",
+		"playerName": "Dasun Shanaka (Captain)",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170708/dhananjaya-de-silva.jpg",
+		"playerName": "Dhananjaya de Silva",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155713/kamindu-mendis.jpg",
+		"playerName": "Kamindu Mendis",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155686/lahiru-madushanka.jpg",
+		"playerName": "Lahiru Madushanka",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/charith-asalanka.jpg",
+		"playerName": "Charith Asalanka",
+		"playerType": "Bowling Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155576/wanindu-hasaranga.jpg",
+		"playerName": "Wanindu Hasaranga",
+		"playerType": "Bowling Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170718/kusal-perera.jpg",
+		"playerName": "Kusal Perera",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c146417/dinesh-chandimal.jpg",
+		"playerName": "Dinesh Chandimal",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/chamika-karunaratne.jpg",
+		"playerName": "Chamika Karunaratne",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170728/nuwan-pradeep.jpg",
+		"playerName": "Nuwan Pradeep",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/maheesh-theekshana.jpg",
+		"playerName": "Maheesh Theekshana",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155666/praveen-jayawickrama.jpg",
+		"playerName": "Praveen Jayawickrama",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155068/dushmantha-chameera.jpg",
+		"playerName": "Dushmantha Chameera",
+		"playerType": "Bowler"
+	}
+]
