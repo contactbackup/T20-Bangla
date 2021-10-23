@@ -45,5 +45,29 @@
 		"teamName": "Afghanistan",
 		"teamWinners": "Super 10s (2016)",
 		"url": "https://raw.githubusercontent.com/contactbackup/T20-Bangla/main/Afghanistan"
+	},
+	{
+		"teamImage": "https://cdn2.iconfinder.com/data/icons/flags-circle-3d/100/srilanka-512.png",
+		"teamName": "Sri Lanka",
+		"teamWinners": "Champions (2014)",
+		"url": "https://raw.githubusercontent.com/contactbackup/T20-Bangla/main/Sri_Lanka"
+	},
+	{
+		"teamImage": "https://cdn.countryflags.com/thumbs/namibia/flag-3d-round-250.png",
+		"teamName": "Namibia",
+		"teamWinners": "First round",
+		"url": "https://raw.githubusercontent.com/contactbackup/T20-Bangla/main/Namibia"
+	},
+	{
+		"teamImage": "https://cdn.countryflags.com/thumbs/bangladesh/flag-3d-round-250.png",
+		"teamName": "Bangladesh",
+		"teamWinners": "Super 8s (2007)",
+		"url": "https://raw.githubusercontent.com/contactbackup/T20-Bangla/main/Bangladesh"
+	},
+	{
+		"teamImage": "https://www.shareicon.net/data/2016/08/18/815750_world_512x512.png",
+		"teamName": "Scotland",
+		"teamWinners": "First round (2007, 09, 16)",
+		"url": "https://raw.githubusercontent.com/contactbackup/T20-Bangla/main/Scotland"
 	}
 ]
