@@ -1,0 +1,91 @@
+[{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c180334/jack-edwards.jpg",
+		"playerName": "Jack Edwards",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/daniel-hughes.jpg",
+		"playerName": "Daniel Hughes",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/jordan-silk.jpg",
+		"playerName": "Jordan Silk",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170945/james-vince.jpg",
+		"playerName": "James Vince",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c152405/moises-henriques.jpg",
+		"playerName": "Moises Henriques (Captain)",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/hayden-kerr.jpg",
+		"playerName": "Hayden Kerr",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/daniel-christian.jpg",
+		"playerName": "Daniel Christian",
+		"playerType": "Bowling Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c154359/steve-okeefe.jpg",
+		"playerName": "Steve OKeefe",
+		"playerType": "Bowling Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170967/tom-curran.jpg",
+		"playerName": "Tom Curran",
+		"playerType": "Bowling Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170798/carlos-brathwaite.jpg",
+		"playerName": "Carlos Brathwaite",
+		"playerType": "Bowling Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c156066/josh-philippe.jpg",
+		"playerName": "Josh Philippe",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c191413/sean-abbott.jpg",
+		"playerName": "Sean Abbott",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c180323/ben-dwarshuis.jpg",
+		"playerName": "Ben Dwarshuis",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c154665/mickey-edwards.jpg",
+		"playerName": "Mickey Edwards",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170650/nathan-lyon.jpg",
+		"playerName": "Nathan Lyon",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/ben-manenti.jpg",
+		"playerName": "Ben Manenti",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/lloyd-pope.jpg",
+		"playerName": "Lloyd Pope",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c180276/jackson-bird.jpg",
+		"playerName": "Jackson Bird",
+		"playerType": "Bowler"
+	}
+]
