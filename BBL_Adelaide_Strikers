@@ -1,0 +1,91 @@
+[{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c151591/ryan-gibson.jpg",
+		"playerName": "Ryan Gibson",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c154677/matt-renshaw.jpg",
+		"playerName": "Matt Renshaw",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/jake-weatherald.jpg",
+		"playerName": "Jake Weatherald",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c152424/jonathan-wells.jpg",
+		"playerName": "Jonathan Wells",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c147703/travis-head.jpg",
+		"playerName": "Travis Head (Captain)",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/liam-scott.jpg",
+		"playerName": "Liam Scott",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c154320/matthew-short.jpg",
+		"playerName": "Matthew Short",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170667/alex-carey.jpg",
+		"playerName": "Alex Carey",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/harry-nielsen.jpg",
+		"playerName": "Harry Nielsen",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156093/wes-agar.jpg",
+		"playerName": "Wes Agar",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c152394/fawad-ahmed.jpg",
+		"playerName": "Fawad Ahmed",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c154636/harry-conway.jpg",
+		"playerName": "Harry Conway",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156760/george-garton.jpg",
+		"playerName": "George Garton",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/spencer-johnson.jpg",
+		"playerName": "Spencer Johnson",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170857/rashid-khan.jpg",
+		"playerName": "Rashid Khan",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c151562/liam-o-connor.jpg",
+		"playerName": "Liam O Connor",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156078/peter-siddle.jpg",
+		"playerName": "Peter Siddle",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c154357/daniel-worrall.jpg",
+		"playerName": "Daniel Worrall",
+		"playerType": "Bowler"
+	}
+]
