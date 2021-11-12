@@ -1,0 +1,81 @@
+[{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c180293/joe-burns.jpg",
+		"playerName": "Joe Burns",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/clint-hinchliffe.jpg",
+		"playerName": "Clint Hinchliffe",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c165722/nick-larkin.jpg",
+		"playerName": "Nick Larkin",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c178326/beau-webster.jpg",
+		"playerName": "Beau Webster",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170641/glenn-maxwell.jpg",
+		"playerName": "Glenn Maxwell (Captain)",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/hilton-cartwright.jpg",
+		"playerName": "Hilton Cartwright",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c176605/marcus-stoinis.jpg",
+		"playerName": "Marcus Stoinis",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c154658/sam-rainbird.jpg",
+		"playerName": "Sam Rainbird",
+		"playerType": "Bowling Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156080/seb-gotch.jpg",
+		"playerName": "Seb Gotch",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/joe-clarke.jpg",
+		"playerName": "Joe Clarke",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170648/nathan-coulter-nile.jpg",
+		"playerName": "Nathan Coulter-Nile",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c178327/liam-hatcher.jpg",
+		"playerName": "Liam Hatcher",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/tom-o-connell.jpg",
+		"playerName": "Tom O Connell",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156049/billy-stanlake.jpg",
+		"playerName": "Billy Stanlake",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170654/adam-zampa.jpg",
+		"playerName": "Adam Zampa",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/samuel-elliott.jpg",
+		"playerName": "Samuel Elliott",
+		"playerType": "Bowler"
+	}
+]
