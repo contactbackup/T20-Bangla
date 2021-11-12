@@ -1,0 +1,81 @@
+[{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/tim-david.jpg",
+		"playerName": "Tim David",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c180303/caleb-jewell.jpg",
+		"playerName": "Caleb Jewell",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c147852/d-arcy-short.jpg",
+		"playerName": "D Arcy Short",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/macalister-wright.jpg",
+		"playerName": "Macalister Wright",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156831/harry-brook.jpg",
+		"playerName": "Harry Brook",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/mitchell-owen.jpg",
+		"playerName": "Mitchell Owen",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156205/matthew-wade.jpg",
+		"playerName": "Matthew Wade (Captain)",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c152390/peter-handscomb.jpg",
+		"playerName": "Peter Handscomb",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156074/ben-mcdermott.jpg",
+		"playerName": "Ben McDermott",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/scott-boland.jpg",
+		"playerName": "Scott Boland",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/nathan-ellis.jpg",
+		"playerName": "Nathan Ellis",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c155663/riley-meredith.jpg",
+		"playerName": "Riley Meredith",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156210/joel-paris.jpg",
+		"playerName": "Joel Paris",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/wil-parker.jpg",
+		"playerName": "Wil Parker",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c146380/sandeep-lamichhane.jpg",
+		"playerName": "Sandeep Lamichhane",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/josh-kann.jpg",
+		"playerName": "Josh Kann",
+		"playerType": "Bowler"
+	}
+]
