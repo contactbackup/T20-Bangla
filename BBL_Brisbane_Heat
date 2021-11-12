@@ -1,0 +1,71 @@
+[{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/tom-cooper.jpg",
+		"playerName": "Tom Cooper",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c155687/sam-heazlett.jpg",
+		"playerName": "Sam Heazlett",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c154633/chris-lynn.jpg",
+		"playerName": "Chris Lynn",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156641/ben-duckett.jpg",
+		"playerName": "Ben Duckett",
+		"playerType": "Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c184115/marnus-labuschagne.jpg",
+		"playerName": "Marnus Labuschagne",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c155994/michael-neser.jpg",
+		"playerName": "Michael Neser",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c158007/tom-abell.jpg",
+		"playerName": "Tom Abell",
+		"playerType": "Batting Allrounder"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c180935/tom-banton.jpg",
+		"playerName": "Tom Banton",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156084/jimmy-peirson.jpg",
+		"playerName": "Jimmy Peirson (Captain)",
+		"playerType": "WK-Batsman"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/xavier-bartlett.jpg",
+		"playerName": "Xavier Bartlett",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c154349/mark-steketee.jpg",
+		"playerName": "Mark Steketee",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156052/mitchell-swepson.jpg",
+		"playerName": "Mitchell Swepson",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/matthew-willans.jpg",
+		"playerName": "Matthew Willans",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170865/mujeeb-ur-rahman.jpg",
+		"playerName": "Mujeeb Ur Rahman",
+		"playerType": "Bowler"
+	}
+]
