@@ -8,42 +8,42 @@
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/b/be/Melbourne_stars.png",
 		"teamName": "Melbourne Stars",
 		"teamWinners": "Champions (2017–18)",
-		"url": ""
+		"url": "https://raw.githubusercontent.com/contactbackup/T20-Bangla/main/BBL_Melbourne_Stars"
 	},
 	{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Sydney_thunder.png/250px-Sydney_thunder.png",
 		"teamName": "Sydney Thunder",
 		"teamWinners": "Champions (2012, 2013, 2014, 2017)",
-		"url": ""
+		"url": "https://raw.githubusercontent.com/contactbackup/T20-Bangla/main/BBL_Sydney_Thunder"
 	},
 	{
 		"teamImage": "https://s.ndtvimg.com/images/entities/300/brisbane-heat-2162.png",
 		"teamName": "Brisbane Heat",
 		"teamWinners": "Champions (2014–15)",
-		"url": ""
+		"url": "https://raw.githubusercontent.com/contactbackup/T20-Bangla/main/BBL_Brisbane_Heat"
 	},
 	{
 		"teamImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/313500/313508.logo.png",
 		"teamName": "Melbourne Renegades",
 		"teamWinners": "Champions (2019–20, 2020–21)",
-		"url": ""
+		"url": "https://raw.githubusercontent.com/contactbackup/T20-Bangla/main/BBL_Melbourne_Renegades"
 	},
 	{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Adelaide_Strikers_logo.svg/1200px-Adelaide_Strikers_logo.svg.png",
 		"teamName": "Adelaide Strikers",
 		"teamWinners": "Champions (0)",
-		"url": ""
+		"url": "https://raw.githubusercontent.com/contactbackup/T20-Bangla/main/BBL_Adelaide_Strikers"
 	},
 	{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/0/07/Hobart_hurricanes.png",
 		"teamName": "Hobart Hurricanes",
 		"teamWinners": "Champions (0)",
-		"url": ""
+		"url": "https://raw.githubusercontent.com/contactbackup/T20-Bangla/main/BBL_Hobart_Hurricanes"
 	},
 	{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/8/86/Perth_Scorchers.png",
 		"teamName": "Perth Scorchers",
 		"teamWinners": "Champions (2018–19)",
-		"url": ""
+		"url": "https://raw.githubusercontent.com/contactbackup/T20-Bangla/main/BBL_Perth_Scorchers"
 	}
 ]
