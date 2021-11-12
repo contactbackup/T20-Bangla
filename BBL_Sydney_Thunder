@@ -1,85 +1,85 @@
 [{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170640/usman-khawaja.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c170640/usman-khawaja.jpg",
 		"playerName": "Usman Khawaja (Captain)",
 		"playerType": "Batsman"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c152388/alex-ross.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c152388/alex-ross.jpg",
 		"playerName": "Alex Ross",
 		"playerType": "Batsman"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156171/alex-hales.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c156171/alex-hales.jpg",
 		"playerName": "Alex Hales",
 		"playerType": "Batsman"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c180312/jason-sangha.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c180312/jason-sangha.jpg",
 		"playerName": "Jason Sangha",
 		"playerType": "Batsman"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/oliver-davies.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/oliver-davies.jpg",
 		"playerName": "Oliver Davies",
 		"playerType": "Batting Allrounder"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c171073/ben-cutting.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c171073/ben-cutting.jpg",
 		"playerName": "Ben Cutting",
 		"playerType": "Bowling Allrounder"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c180331/chris-green.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c180331/chris-green.jpg",
 		"playerName": "Chris Green",
 		"playerType": "Bowling Allrounder"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c180315/daniel-sams.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c180315/daniel-sams.jpg",
 		"playerName": "Daniel Sams",
 		"playerType": "Bowling Allrounder"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/matthew-gilkes.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/matthew-gilkes.jpg",
 		"playerName": "Matthew Gilkes",
 		"playerType": "WK-Batsman"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/baxter-holt.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/baxter-holt.jpg",
 		"playerName": "Baxter Holt",
 		"playerType": "WK-Batsman"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156173/sam-billings.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c156173/sam-billings.jpg",
 		"playerName": "Sam Billings",
 		"playerType": "WK-Batsman"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/jonathan-cook.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/jonathan-cook.jpg",
 		"playerName": "Jonathan Cook",
 		"playerType": "Bowler"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c180286/brendan-doggett.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c180286/brendan-doggett.jpg",
 		"playerName": "Brendan Doggett",
 		"playerType": "Bowler"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/nathan-mcandrew.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/nathan-mcandrew.jpg",
 		"playerName": "Nathan McAndrew",
 		"playerType": "Bowler"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/tanveer-sangha.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/tanveer-sangha.jpg",
 		"playerName": "Tanveer Sangha",
 		"playerType": "Bowler"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c154291/chris-tremain.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c154291/chris-tremain.jpg",
 		"playerName": "Chris Tremain",
 		"playerType": "Bowler"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156545/saqib-mahmood.jpg",
+		"playerImage": "https://www.cricbuzz.com/a/img/v1/75x75/i1/c156545/saqib-mahmood.jpg",
 		"playerName": "Saqib Mahmood",
 		"playerType": "Bowler"
 	}
