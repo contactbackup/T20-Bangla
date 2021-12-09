@@ -1,31 +1,4 @@
 [{
-		"fastTeam": "Renegades",
-		"secondTeam": "Adelaide Strikers",
-		"matchType": "T20 3 of 61",
-		"time": "REN won by 2 runs",
-		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/6nmMQSfhH-3TlBG1iSoqGA_96x96.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/9OGG9pae7OI2wpkUJm8Cwg_96x96.png",
-		"url": "https://www.google.com/search?q=big+bash+2021-22&sxsrf=AOaemvL34T9KBI2lpfagyoDHjqz8Y1P1IA%3A1635960196497&ei=hMWCYdfgHZKPxc8P9K6i4AU&oq=bigbash&gs_lcp=Cgdnd3Mtd2l6EAEYADIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQsAMQQzINCC4QyAMQsAMQQxCTAjIKCC4QyAMQsAMQQzIKCC4QyAMQsAMQQzIKCC4QyAMQsAMQQzIKCC4QyAMQsAMQQzIKCC4QyAMQsAMQQ0oFCDgSATFKBAhBGABQAFgAYI8QaAFwAngAgAEAiAEAkgEAmAEAyAEPwAEB&sclient=gws-wiz#sie=m;/g/11rs01x19f;5;/m/0g9x1nv;dt;fp;1;;"
-	},
-	{
-		"fastTeam": "Hobart Hurricanes",
-		"secondTeam": "Sydney Sixers",
-		"matchType": "T20 4 of 61",
-		"time": "Dec 8, 07:15 AM",
-		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/OGhX3ELDvTTKUzjKkFgsnw_96x96.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/ThjBfVZwlYCOhUZo6K2oaw_96x96.png",
-		"url": "https://www.google.com/search?q=big+bash+2021-22&sxsrf=AOaemvL34T9KBI2lpfagyoDHjqz8Y1P1IA%3A1635960196497&ei=hMWCYdfgHZKPxc8P9K6i4AU&oq=bigbash&gs_lcp=Cgdnd3Mtd2l6EAEYADIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQsAMQQzINCC4QyAMQsAMQQxCTAjIKCC4QyAMQsAMQQzIKCC4QyAMQsAMQQzIKCC4QyAMQsAMQQzIKCC4QyAMQsAMQQzIKCC4QyAMQsAMQQ0oFCDgSATFKBAhBGABQAFgAYI8QaAFwAngAgAEAiAEAkgEAmAEAyAEPwAEB&sclient=gws-wiz#sie=m;/g/11rs01xbdg;5;/m/0g9x1nv;dt;fp;1;;"
-	},
-	{
-		"fastTeam": "Perth Scorchers",
-		"secondTeam": "Brisbane Heat",
-		"matchType": "T20 5 of 61",
-		"time": "Dec 8, 10:35 AM",
-		"fastImage": "https://ssl.gstatic.com/onebox/media/sports/logos/_AALGJX_T_Cjnn5ke6BxaQ_96x96.png",
-		"secondImage": "https://ssl.gstatic.com/onebox/media/sports/logos/lUWZaFTPL0uN1X5fD7KVPA_96x96.png",
-		"url": "https://www.google.com/search?q=big+bash+2021-22&sxsrf=AOaemvL34T9KBI2lpfagyoDHjqz8Y1P1IA%3A1635960196497&ei=hMWCYdfgHZKPxc8P9K6i4AU&oq=bigbash&gs_lcp=Cgdnd3Mtd2l6EAEYADIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQsAMQQzINCC4QyAMQsAMQQxCTAjIKCC4QyAMQsAMQQzIKCC4QyAMQsAMQQzIKCC4QyAMQsAMQQzIKCC4QyAMQsAMQQzIKCC4QyAMQsAMQQ0oFCDgSATFKBAhBGABQAFgAYI8QaAFwAngAgAEAiAEAkgEAmAEAyAEPwAEB&sclient=gws-wiz#sie=m;/g/11nxc8ydb7;5;/m/0g9x1nv;dt;fp;1;;"
-	},
-	{
 		"fastTeam": "Adelaide Strikers",
 		"secondTeam": "Renegades",
 		"matchType": "T20 6 of 61",
