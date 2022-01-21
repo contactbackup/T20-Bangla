@@ -1,0 +1,32 @@
+[{
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/7/7f/MultanSultans.png",
+		"teamName": "Multan Sultans",
+		"teamWinners": "Champions (2021)"
+	},
+	{
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/2/2a/Karachi_Kings.png",
+		"teamName": "Karachi Kings",
+		"teamWinners": "Champions (2020)"
+	},
+	{
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/d/d2/Quetta_Gladiators.png",
+		"teamName": "Quetta Gladiators",
+		"teamWinners": "Champions (2019)"
+	},
+	{
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/9/92/Islamabad_United.png",
+		"teamName": "Islamabad United",
+		"teamWinners": "Champions (2018)"
+	},
+	{
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/9/9c/Peshawar_Zalmi_logo.png",
+		"teamName": "Peshawar Zalmi",
+		"teamWinners": "Champions (2017)"
+	},
+	{
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/9/92/Islamabad_United.png",
+		"teamName": "Islamabad United",
+		"teamWinners": "Champions (2016)"
+	}
+
+]
