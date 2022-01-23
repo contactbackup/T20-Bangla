@@ -1,0 +1,91 @@
+[{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/302800/302871.jpg",
+		"playerName": "Imad Wasim",
+		"playerType": "Allrounder"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/302700/302768.jpg",
+		"playerName": "Babar Azam",
+		"playerType": "Batter"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/228400/228499.1.jpg",
+		"playerName": "Aamer Yamin",
+		"playerType": "Allrounder"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/esci/i/headshots/cricket/players/default-player-logo-500.png",
+		"playerName": "Abbas Afridi",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/324700/324717.4.jpg",
+		"playerName": "Arshad Iqbal",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/324700/324706.1.png",
+		"playerName": "Danish Aziz",
+		"playerType": "Allrounder"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/303600/303656.png",
+		"playerName": "Martin Guptill",
+		"playerType": "Opening batter"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/302800/302820.jpg",
+		"playerName": "Mohammad Amir",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/esci/i/headshots/cricket/players/default-player-logo-500.png",
+		"playerName": "Mohammad Haris",
+		"playerType": "Middle order batter"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/325500/325567.3.jpg",
+		"playerName": "Mohammad Ilyas",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/303200/303283.jpg",
+		"playerName": "Najibullah Zadran",
+		"playerType": "Middle order batter"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/311200/311270.jpg",
+		"playerName": "Noor Ahmad",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/263600/263680.1.png",
+		"playerName": "Thisara Perera",
+		"playerType": "Bowling allrounder"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/esci/i/headshots/cricket/players/default-player-logo-500.png",
+		"playerName": "Qasim Akram",
+		"playerType": "Allrounder"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/236800/236867.jpg",
+		"playerName": "Sharjeel Khan",
+		"playerType": "Opening batter"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/312100/312189.png",
+		"playerName": "Chadwick Walton",
+		"playerType": "Top order batter"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/195900/195917.1.jpg",
+		"playerName": "Waqas Maqsood",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/esci/i/headshots/cricket/players/default-player-logo-500.png",
+		"playerName": "Zeeshan Malik",
+		"playerType": "Opening batter"
+	}
+]
