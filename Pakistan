@@ -1,76 +1,81 @@
 [{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170768/babar-azam.jpg",
-		"playerName": "Babar Azam (Captain)",
-		"playerType": "Batsman"
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/302700/302768.jpg",
+		"playerName": "Babar Azam",
+		"playerType": "Batter"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170770/asif-ali.jpg",
-		"playerName": "Asif Ali",
-		"playerType": "Batsman"
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/esci/i/headshots/cricket/players/default-player-logo-500.png",
+		"playerName": "Abdullah Shafique",
+		"playerType": "Top order batter"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/khushdil-shah.jpg",
-		"playerName": "Khushdil Shah",
-		"playerType": "Batsman"
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/302700/302767.jpg",
+		"playerName": "Azhar Ali",
+		"playerType": "Top order batter"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c155526/sohaib-maqsood.jpg",
-		"playerName": "Sohaib Maqsood",
-		"playerType": "Batsman"
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/302700/302770.jpg",
+		"playerName": "Faheem Ashraf",
+		"playerType": "Bowling allrounder"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170776/mohammad-hafeez.jpg",
-		"playerName": "Mohammad Hafeez",
-		"playerType": "Batting Allrounder"
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/302700/302772.jpg",
+		"playerName": "Fawad Alam",
+		"playerType": "Top order batter"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170779/shadab-khan.jpg",
-		"playerName": "Shadab Khan",
-		"playerType": "Bowling Allrounder"
-	},
-	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170782/imad-wasim.jpg",
-		"playerName": "Imad Wasim",
-		"playerType": "Bowling Allrounder"
-	},
-	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c148311/mohammad-nawaz.jpg",
-		"playerName": "Mohammad Nawaz",
-		"playerType": "Bowling Allrounder"
-	},
-	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/mohammad-wasim-jr.jpg",
-		"playerName": "Mohammad Wasim Jr",
-		"playerType": "Bowling Allrounder"
-	},
-	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/azam-khan.jpg",
-		"playerName": "Azam Khan",
-		"playerType": "WK-Batsman"
-	},
-	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c202222/mohammad-rizwan.jpg",
-		"playerName": "Mohammad Rizwan",
-		"playerType": "WK-Batsman"
-	},
-	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c174146/haris-rauf.jpg",
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/312100/312183.png",
 		"playerName": "Haris Rauf",
 		"playerType": "Bowler"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170804/hasan-ali.jpg",
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/302700/302774.jpg",
 		"playerName": "Hasan Ali",
 		"playerType": "Bowler"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170805/mohammad-hasnain.jpg",
-		"playerName": "Mohammad Hasnain",
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/302800/302817.jpg",
+		"playerName": "Imam-ul-Haq",
+		"playerType": "Top order batter"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/236800/236859.jpg",
+		"playerName": "Mohammad Nawaz",
+		"playerType": "Allrounder"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/312100/312178.jpg",
+		"playerName": "Mohammad Rizwan",
+		"playerType": "Wicketkeeper batter"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/325500/325566.3.jpg",
+		"playerName": "Nauman Ali",
 		"playerType": "Bowler"
 	},
 	{
-		"playerImage": "https://www.cricbuzz.com/a/img/v1/225x225/i1/c170802/shaheen-afridi.jpg",
-		"playerName": "Shaheen Afridi",
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/325500/325569.3.jpg",
+		"playerName": "Sajid Khan",
+		"playerType": "Bowling allrounder"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/313600/313620.png",
+		"playerName": "Saud Shakeel",
+		"playerType": "Middle order batter"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/312100/312180.jpg",
+		"playerName": "Shaheen Shah Afridi",
+		"playerType": "Bowler"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/302800/302826.jpg",
+		"playerName": "Shan Masood",
+		"playerType": "Opening batter"
+	},
+	{
+		"playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/325500/325568.3.jpg",
+		"playerName": "Zahid Mahmood",
 		"playerType": "Bowler"
 	}
 ]
