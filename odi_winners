@@ -1,0 +1,48 @@
+[{
+		"teamImage": "https://cdn-icons-png.flaticon.com/512/197/197507.png",
+		"teamName": "Australia",
+		"teamWinners": "Champions (1987, 1999, 2003, 2007, 2015)"
+	},
+	{
+		"teamImage": "https://cdn-icons-png.flaticon.com/512/197/197419.png",
+		"teamName": "India",
+		"teamWinners": "Champions (1983, 2011)"
+	},
+	{
+		"teamImage": "https://s.ndtvimg.com/images/entities/300/west-indies-2119.png",
+		"teamName": "West Indies",
+		"teamWinners": "Champions (1975, 1979)"
+	},
+	{
+		"teamImage": "https://cdn-icons-png.flaticon.com/512/197/197374.png",
+		"teamName": "England",
+		"teamWinners": "Champions (2019)"
+	},
+	{
+		"teamImage": "https://cdn-icons-png.flaticon.com/512/323/323352.png",
+		"teamName": "Pakistan",
+		"teamWinners": "Champions (1992)"
+	},
+	{
+		"teamImage": "https://cdn-icons-png.flaticon.com/512/197/197398.png",
+		"teamName": "Sri Lanka",
+		"teamWinners": "Champions (1996)"
+	},
+	{
+		"teamImage": "https://cdn-icons-png.flaticon.com/512/197/197589.png",
+		"teamName": "New Zealand",
+		"teamWinners": "Runners-up (2015, 2019)"
+	},
+	{
+		"teamImage": "https://cdn-icons-png.flaticon.com/512/197/197562.png",
+		"teamName": "South Africa",
+		"teamWinners": "Semi-finals (1992, 1999, 2007, 2015)"
+	},
+	{
+		"teamImage": "https://cdn-icons-png.flaticon.com/512/197/197608.png",
+		"teamName": "Kenya",
+		"teamWinners": "Semi-finals (2003)"
+	}
+
+
+]
